@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T00:46:42.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="lHUSpUyn-r4CiHIGUQmg" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T02:09:39.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="iUaErPfz-yU6K6zr6xfD" version="21.6.9" type="github">
   <diagram name="Página-1" id="lVTm1bAXpSQzsFV3SM9Y">
-    <mxGraphModel dx="3219" dy="3663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2860" dy="3464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
         <mxCell id="cUlRSFcKXgVbvlpUifr--236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cUlRSFcKXgVbvlpUifr--84" target="cUlRSFcKXgVbvlpUifr--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cUlRSFcKXgVbvlpUifr--84" value="QUEUE&lt;br&gt;&lt;br&gt;&lt;br&gt;KAFKA&lt;br&gt;?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="cUlRSFcKXgVbvlpUifr--84" value="QUEUE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="400" y="-2220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cUlRSFcKXgVbvlpUifr--122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cUlRSFcKXgVbvlpUifr--97" target="cUlRSFcKXgVbvlpUifr--118" edge="1">
@@ -172,7 +172,7 @@
             <mxPoint x="207.5" y="-1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cUlRSFcKXgVbvlpUifr--118" value="QUEUE&lt;br&gt;&lt;br&gt;&lt;br&gt;KAFKA&lt;br&gt;?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="cUlRSFcKXgVbvlpUifr--118" value="QUEUE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="260" y="-1510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cUlRSFcKXgVbvlpUifr--119" value="BLOCKCHAIN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
