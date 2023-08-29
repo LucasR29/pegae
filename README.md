@@ -20,6 +20,7 @@
 
 ## Banco
   * Auth separado de transações
+  * Usuário separado de companhia
   * Referência feita pelo endereço da carteira ou uuid do usuário
   * Queue de transações
   * DB backup
