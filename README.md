@@ -1,4 +1,4 @@
-# pegae
+# Pegae
 
 ## Usuário
   * Logar / Registrar -> Codigo por celular ou email
